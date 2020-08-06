@@ -2,7 +2,7 @@
 
 ## I currently work as a Freelance Web Designer & Developer!
 
-- 🔭 I’m currently working on [Insurance Partners][website]
+- 🔭 I’m currently working on a website for [Insurance Partners][website]
 - 🌱 I’m currently learning React, Bootstrap, more MySQL & MongoDB
 - 👯 I’m looking to collaborate with anyone Frontend & Backend
 - 🤔 I’m looking for help with learning SEO

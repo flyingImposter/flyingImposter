@@ -1,4 +1,4 @@
-### Hi there, I'm Ruan - aka flyingImposter [Gaming Tag] 👋
+### Hi there, I'm Ruan - aka flyingImposter [Gamertag] 👋
 
 ## I currently work as a Freelance Web Designer & Developer!
 
